@@ -5,6 +5,8 @@ Beerect is the result of a coding challenge. The goal was to create a Web applic
 * user must be able to draw rectangles of random colors using the mouse.
 * when double-clicking on a rectangle it does a 360° rotation and disappears once the rotation's done.
 * when double-clicking on a multiple rectangles, all the rotations must be done before removing the rectangles.
+
+![Screencast](screencast.gif)
  
 Feel free to try the [Demo](https://jsbin.com/lavuno/).
 
